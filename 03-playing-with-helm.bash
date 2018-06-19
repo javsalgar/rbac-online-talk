@@ -42,6 +42,7 @@ kubectl config use-context jsalmeron@minikube
 helm install stable/dokuwiki 
 
 ## Let's fix this
+kubectl config use-context minikube
 kubectl create serviceaccount tiller-sa -n kube-system
 kubectl apply -f yaml/09-tiller-clusterrolebinding.yaml
 
