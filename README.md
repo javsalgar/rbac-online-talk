@@ -1,8 +1,8 @@
-# Material for CNCF RBAC Online talk (2018-06-19)
+# Material for RBAC Talks
+
+This repository hosts the examples used during the online talks, like this.
 
 [Link to the event page](https://www.cncf.io/event/webinar-rbac-kubernetes/)
-
-This repository hosts the examples used during the online talk.
 
 ## Requirements
 
